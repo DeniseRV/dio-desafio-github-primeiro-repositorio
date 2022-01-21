@@ -1,0 +1,2 @@
+Testando qual comando usar para atualizçao de arquivo.
+Primeiro escrevi diretamente no github e quero atualizar o arquivo na minha maquina local.
